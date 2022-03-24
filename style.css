@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start, #restart{
+    font-size: 22px;
+}
+#status, ol{
+    background-color: white;
+}
+li{
+    float: left;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+canvas{
+    border-color: 5px solid pink;
+}
